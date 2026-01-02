@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.1.0</version>
+    <version>1.0.1</version>
 
     <url>https://your-website.com/updates/YouTubeDownloaderSetup.exe</url>
 
     <changelog>https://your-website.com/updates/changelog.html</changelog>
 
     <mandatory>false</mandatory>
+
 </item>
