@@ -2,12 +2,13 @@
 <item>
     <version>1.0.2.0</version>
 
-    <url>https://github.com/tanojsaipraveen/youtubedownloader/raw/main/YouTubeDownloaderSetup_v1.0.2.exe</url>
+    <url>https://github.com/tanojsaipraveen/youtubedownloader/raw/refs/heads/main/YouTubeDownloaderSetup_v1.0.2.exe</url>
 
     <changelog>https://your-website.com/updates/changelog.html</changelog>
 
     <mandatory>false</mandatory>
 
 </item>
+
 
 
